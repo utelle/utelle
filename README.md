@@ -20,6 +20,9 @@ Since about 2005 I'm involved in _Open Source_ software development.
 #### My C-based components
   - [SQLite3 Multiple Ciphers](https://github.com/utelle/SQLite3MultipleCiphers) - SQLite3 extension with support for multiple cipher schemes
 
+#### My components for Python
+  - [apsw-sqlite3mc](https://github.com/utelle/apsw-sqlite3mc) - a [SQLite](https://www.sqlite.org) wrapper for _Python3_ applications, combining the SQLite wrapper [APSW](https://github.com/rogerbinns/apsw) of [Roger Binns](https://github.com/rogerbinns) and the SQLite encryption extension  [SQLite3 Multiple Ciphers](https://github.com/utelle/SQLite3MultipleCiphers) to allow reading and writing encrypted SQLite databases from Python applications. [apsw-sqlite3mc](https://github.com/utelle/apsw-sqlite3mc) was developed in close cooperation with [Roger Binns](https://www.rogerbinns.com).
+
 #### Projects to which I contributed, one way or the other
   - [libcurl](https://github.com/curl/curl) - A library for transferring data with URL syntax
   - [libxlsxwriter](https://github.com/jmcnamara/libxlsxwriter) - A C library for creating Excel XLSX files
